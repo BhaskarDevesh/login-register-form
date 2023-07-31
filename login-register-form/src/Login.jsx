@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import { Logo } from "./icons/logo";
+// import { Logo } from "./icons/logo";
 import icon from "./icons/logo2.png";
 
 export const Login = (props) => {
